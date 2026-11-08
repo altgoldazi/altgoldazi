@@ -1,5 +1,5 @@
 ## Hi there 👋
-### test
+
 I'm Azi Altgold an undergraduate mechanical engineering major at The Ohio State University.
 
 I work on personal robotics projects to improve and expand my technical skills, and also because I have lots of fun doing them. 
@@ -11,7 +11,7 @@ With BSLI I am currently Using Altium to help create the PCB design for our Radi
 I have skills in CAD, Electronics, and Coding.
 I want to go into the aerospace industry.
 
-Facts About Me:
+### Facts About Me:
 - I want to be an astronaut
 - Cats are my favorite animal
 - I currently have two cats, two dogs, and five chickens
