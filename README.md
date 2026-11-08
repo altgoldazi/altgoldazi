@@ -1,5 +1,5 @@
 ## Hi there 👋
-# test
+### test
 I'm Azi Altgold an undergraduate mechanical engineering major at The Ohio State University.
 
 I work on personal robotics projects to improve and expand my technical skills, and also because I have lots of fun doing them. 
